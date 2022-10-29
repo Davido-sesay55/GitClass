@@ -39,3 +39,5 @@ $ git push -u origin master
 ##############################
 Delete a branch
 git branch -d
+#################################
+Git Checkout -b 
