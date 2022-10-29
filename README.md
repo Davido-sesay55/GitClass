@@ -35,3 +35,7 @@ $ git log
 
 push commit to github repository
 $ git push -u origin master
+
+##############################
+Delete a branch
+git branch -d
